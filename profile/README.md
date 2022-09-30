@@ -1,6 +1,6 @@
 [![MasterHead](profile/assets/no_vars_please.gif)](https://kaggle.com/dsfelix)
 <h1 align="center">👋 What's shakin', guys? 👋</h1>
-<h3 align="center">Brazilian Organization Focused on Weeeb and Desktop Applications</h3>
+<h3 align="center">Brazilian Organization Focused on Web and Desktop Applications</h3>
 
 <br>
 
