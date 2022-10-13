@@ -1,4 +1,4 @@
-[![MasterHead](assets/no_vars_please.gif)](https://kaggle.com/dsfelix)
+[![MasterHead](profile/assets/no_vars_please.gif)](https://kaggle.com/dsfelix)
 <h1 align="center">👋 What's shakin', guys? 👋</h1>
 <h3 align="center">Brazilian Organization Focused on Web and Desktop Applications</h3>
 
@@ -12,6 +12,10 @@
   🌟 Hubber 1: <a href="https://github.com/CSFelix"><b>CSFelix</b></a> 🌟
    <br><br>
   🌟 Hubber 2: <a href="https://github.com/wiliamdindin"><b>William Dindin</b></a> 🌟
+  <br><br>
+  🌟 Hubber 3: <a href="https://github.com/alison1120"><b>Alison 1120</b></a> 🌟
+  <br><br>
+  🌟 Hubber 4: <a href="https://github.com/VitormXavier"><b>VitormXavier</b></a> 🌟
 </h3>
 
 ----
